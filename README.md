@@ -21,3 +21,4 @@ Users can add, update, delete, and search for contacts. Built with React, Vite, 
 
 ## Usage
 Add, edit, delete, and search contacts with a user-friendly interface.
+![image](https://github.com/user-attachments/assets/f2a59181-19ff-40d8-a816-91853b692032)
